@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1671367812 source:c:\users\asus\desktop\vlsi design\lab\cad\lab_sessionals\adjacency_list\list_main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"list.h"
+
+1669551192 c:\users\asus\desktop\vlsi design\lab\cad\lab_sessionals\adjacency_list\list.h
+
+1671731281 source:c:\users\asus\desktop\vlsi design\lab\cad\lab_sessionals\adjacency_list\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1671270816 source:c:\users\asus\desktop\vlsi design\lab\cad\lab_sessionals\adjacency_list\adjasency list\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1669551192 c:\users\asus\desktop\vlsi design\lab\cad\lab_sessionals\adjacency_list\adjasency list\list.h
+
+1669551196 source:c:\users\asus\desktop\vlsi design\lab\cad\lab_sessionals\adjacency_list\adjasency list\list_main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"list.h"
+
